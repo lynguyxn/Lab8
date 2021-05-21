@@ -1,5 +1,7 @@
 # Lab8_Starter
 
+[Test Result Screenshot](https://github.com/lynguyxn/Lab8/blob/main/test-results.JPG)
+
 ## Name:
 
 * Ly Nguyen
